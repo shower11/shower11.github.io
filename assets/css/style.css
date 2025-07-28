@@ -1,5 +1,5 @@
 body {
-    background-iamge: url(/assets/images/background1.png);
+    background-iamge: url('/assets/images/background1.png');
     background-repeat: repeat-x;
 }
 p {
